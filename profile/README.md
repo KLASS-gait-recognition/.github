@@ -1,6 +1,5 @@
-## Gait Recognition 👋
+## Gait Recognition 🚶
 
-<!--
 
 **Welcome to the Gait Recognition Project!**
 
@@ -9,4 +8,4 @@
 👩‍💻 References - More detailed information about gait recognition could be found at [OpenGait](https://github.com/ShiqiYu/OpenGait) and silhouette extraction at [MMdetection](https://github.com/open-mmlab/mmdetection)
 🍿 We achieved **50%** accuracy in terms of the its rank-1 accuracy. This is 3% more than the current state-of-the-art models!
 🧙 Thank you for reading and enjoy!
--->
+
